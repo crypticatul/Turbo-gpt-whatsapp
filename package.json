@@ -1,7 +1,7 @@
 {
-  "name": "whatsapp-turbo-gpt",
+  "name": "Cognitiev-turbo-gpt",
   "version": "1.0.0",
-  "description": "WhatsApp Bot OpenAI ChatGPT Using Lib Baileys Multi Device",
+  "description": "WhatsApp Bot Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,8 +18,8 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/harshitethic/whatsapp-turbo-gpt",
-  "author": "Harshit Sharma",
+  "base": "https://cognitiev.com",
+  "author": "Cognitiev",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.7",
@@ -44,10 +44,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harshitethic/whatsapp-turbo-gpt.git"
+    "url": "git+https://github.com/crypticatul/Turbo-gpt-whatsapp.git"
   },
   "bugs": {
-    "url": "https://github.com/harshitethic/whatsapp-turbo-gpt/issues"
+    "url": "https://github.com/crypticatul/Turbo-gpt-whatsapp/issues"
   },
-  "homepage": "https://github.com/harshitethic/whatsapp-turbo-gpt#readme"
+  "homepage": "https://cognitiev.com"
 }
